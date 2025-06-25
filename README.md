@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Sean Ntlabathi
 
-<!--
-**SeanNtlabathi/SeanNtlabathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Full-Stack Developer & Designer | Certified in Cloud, Cybersecurity & Data
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+**Technical:** HTML, CSS, JavaScript, Python, Vue.js, Node.js, MySQL  
+**Design:** Illustrator, Photoshop, Figma  
+**Certified:** Cloud Computing, Data Analysis, Cybersecurity (via Credly)  
+**Soft Skills:** Communication, Adaptability, Problem-Solving, Teamwork
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect With Me
+- 💼 [Portfolio]([#](https://dev-seanntlabathi.pantheonsite.io/?page_id=28))
+- 💬 [LinkedIn](https://www.linkedin.com/in/sean-ntlabathi)
+- 📊 [Credly](https://www.credly.com/users/sean-ntlabathi)
+
