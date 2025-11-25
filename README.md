@@ -13,7 +13,7 @@
  Communication, Adaptability, Problem-Solving, Teamwork
 
 ## 🌐 Connect With Me
-- 💼 [Portfolio](https://dev-seanntlabathi.pantheonsite.io/?page_id=28)
+- 💼 [Portfolio](https://sean-ntlabathi-portfolio.vercel.app/)
 - 💬 [LinkedIn](https://www.linkedin.com/in/sean-ntlabathi)
 - 📊 [Credly](https://www.credly.com/users/sean-ntlabathi)
 
